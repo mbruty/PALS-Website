@@ -1,0 +1,14 @@
+h1 {
+  font-family: sans-serif;
+  font-size: 1.5rem;
+}
+
+.app {
+  height: 90vh;
+  width: 100vw;
+  display: flex;
+}
+
+.networks {
+  width: 30%;
+}
