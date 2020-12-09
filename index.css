@@ -1,9 +1,9 @@
 .main {
   display: flex;
-  width: 100vw;
-  justify-content: center;
-  background-color: #686868;
+  justify-content: space-evenly;
   z-index: 2;
-  opacity: 1;
+  background-color: rgba(53, 53, 53, 0.842);
   position: relative;
+  margin-top: 5%;
+  padding: 15px;
 }
